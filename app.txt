@@ -1,3 +1,4 @@
 Version initiale de l'application.
 Ajout de la fonctionnalité 1.
 ligne modifiee par A
+ligne modifiee par B
